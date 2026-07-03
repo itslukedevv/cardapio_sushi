@@ -425,6 +425,8 @@ section {
     width: 92%;
     max-width: 520px;
     position: relative;
+    max-height: 90vh;
+    overflow-y: auto;
 
     background: var(--bg-modal);
     border: .1em solid rgba(53, 2, 2, .986);
@@ -640,11 +642,27 @@ footer {
     }
 }
 
+@media (max-width: 768px) {
+    .modal-content {
+        width: 95%;
+        max-height: 85vh;
+        overflow-y: auto;
+    }
+}
+
 /* Celulares */
 @media (max-width: 768px) {
     .hero {
         min-height: 250px;
         background-position: 50% center;
+    }
+}
+
+@media (max-width: 768px) {
+    .modal-content {
+        width: 95%;
+        max-height: 85vh;
+        overflow-y: auto;
     }
 }
 
@@ -661,6 +679,14 @@ footer {
     .hero {
         min-height: 220px;
         background-position: 55% center;
+    }
+}
+
+@media (max-width: 768px) {
+    .modal-content {
+        width: 95%;
+        max-height: 85vh;
+        overflow-y: auto;
     }
 }
 
