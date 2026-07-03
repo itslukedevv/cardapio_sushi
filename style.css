@@ -154,7 +154,6 @@ section {
 /* ===== NAV DE CATEGORIAS ===== */
 .categorias {
     display: flex;
-    justify-content: center;
     gap: 14px;
 
     padding: 18px 10px;
@@ -428,6 +427,7 @@ section {
 .modal-content {
     width: 92%;
     max-width: 520px;
+    max-height: 88vh;
     max-height: 88dvh;
     position: relative;
 
@@ -629,7 +629,7 @@ footer {
     }
 
     .card-info h3 {
-        font-size: 23px;
+        font-size: 17px;
     }
 
     .card-info strong {
@@ -639,7 +639,9 @@ footer {
     .modal-content {
         width: 100%;
         max-width: 100%;
+        max-height: 100vh;
         max-height: 100dvh;
+        height: 100vh;
         height: 100dvh;
         border-radius: 0;
         border-left: none;
