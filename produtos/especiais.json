@@ -5,7 +5,7 @@
       "pecas": 1,
       "nome": "Temaki Salmão Philadelphia",
       "preco": 23.90,
-      "imagem": "assets/imagens/temaki-philadelphia.jpg",
+      "imagem": "assets/imagens/temaki_philadelphia.jpg",
       "descricao": "Cone de alga recheado com salmão fresco, cream cheese e cebolinha.",
       "sub_descricao": "Cone individual recheado",
       "ingredientes": [
@@ -123,7 +123,7 @@
       "pecas": 1,
       "nome": "Kon Hot",
       "preco": 34.90,
-      "imagem": "assets/imagens/produtos/kon-hot.jpg",
+      "imagem": "assets/imagens/kon_hot.jpg",
       "descricao": "Hot roll especial da casa.",
       "sub_descricao": "Mega hot roll especial frito",
       "ingredientes": [

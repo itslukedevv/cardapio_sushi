@@ -33,7 +33,7 @@
       "nome": "12x Hot Salmão Grelhado",
       "pecas": 12,
       "preco": 15.90,
-      "imagem": "assets/imagens/produtos/hot-grelhado.jpg",
+      "imagem": "assets/imagens/hot_grelhado.jpg",
       "descricao": "Recheio a escolha do cliente, opcoes disponiveis: Geleia de Frutas Vermelhas, Geleia de Maracujá, Couve e Doritos. Caso não seja especificado, o recheio será escolhido pelo chef.",
       "sub_descricao": "Porção de Hot frito com 12 peças",
       "ingredientes": [
