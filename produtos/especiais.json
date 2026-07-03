@@ -1,0 +1,222 @@
+{
+  "produtos": [
+    {
+      "id": "temaki-philadelphia",
+      "pecas": 1,
+      "nome": "Temaki Salmão Philadelphia",
+      "preco": 23.90,
+      "imagem": "assets/imagens/temaki-philadelphia.jpg",
+      "descricao": "Cone de alga recheado com salmão fresco, cream cheese e cebolinha.",
+      "sub_descricao": "Cone individual recheado",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese",
+        "Cebolinha"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 14,
+      "tags": [
+        "Temaki",
+        "Salmão",
+        "Philadelphia"
+      ]
+    },
+    {
+      "id": "temaki-hot",
+      "pecas": 1,
+      "nome": "Temaki Hot",
+      "preco": 26.90,
+      "imagem": "assets/imagens/temaki-hot.jpg",
+      "descricao": "Temaki-philadelphia empanado na farinha panko.",
+      "sub_descricao": "Cone individual totalmente empanado",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese",
+        "Cebolinha"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 15,
+      "tags": [
+        "Temaki",
+        "Hot"
+      ]
+    },
+    {
+      "id": "mini-temaki",
+      "pecas": 2,
+      "nome": "2x Mini-Temaki",
+      "preco": 23.90,
+      "imagem": "assets/imagens/mini-temaki.jpg",
+      "descricao": "Cone de alga recheado com salmão grelhado, cream cheese e cebolinha.",
+      "sub_descricao": "Dupla de mini cones recheados",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese",
+        "Cebolinha"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 14,
+      "tags": [
+        "Temaki",
+        "Salmão",
+        "Philadelphia"
+      ]
+    },
+    {
+      "id": "kon-burguer",
+      "pecas": 1,
+      "nome": "Kon Burguer",
+      "preco": 23.90,
+      "imagem": "assets/imagens/produtos/kon-burguer.jpg",
+      "descricao": "Hambúrguer de sushi empanado com tartar de salmão, cream cheese e Doritos.",
+      "sub_descricao": "Hambúrguer crocante de sushi",
+      "ingredientes": [
+        "Arroz",
+        "Tartar de Salmão",
+        "Cream Cheese",
+        "Doritos",
+        "Cebolinha",
+        "Alface"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 16,
+      "tags": [
+        "Hambúrguer",
+        "Salmão",
+        "Doritos"
+      ]
+    },
+    {
+      "id": "kon-hot",
+      "pecas": 1,
+      "nome": "Kon Hot",
+      "preco": 34.90,
+      "imagem": "assets/imagens/produtos/kon-hot.jpg",
+      "descricao": "Hot roll especial da casa.",
+      "sub_descricao": "Mega hot roll especial frito",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese",
+        "Cebolinha",
+        "Tarê",
+        "Gergelim"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 17,
+      "tags": [
+        "Hot",
+        "Especial",
+        "Salmão"
+      ]
+    },
+    {
+      "id": "harumaki-1",
+      "pecas": 1,
+      "nome": "1x Harumaki (Rolinho Primavera)",
+      "preco": 5.90,
+      "imagem": "assets/imagens/produtos/harumaki-1.jpg",
+      "descricao": "Rolinho a escolha do cliente, opções disponíveis: Camarão / Romeu e Julieta. Caso não seja especificado, o recheio será escolhido pelo chef.",
+      "ingredientes": [
+        "Camarão",
+        "Romeu e Julieta"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 1,
+      "tags": [
+        "Harumaki",
+        "Entrada"
+      ]
+    },
+    {
+      "id": "harumaki-3",
+      "pecas": 3,
+      "nome": "3x Harumaki (Rolinho Primavera)",
+      "preco": 15.90,
+      "imagem": "assets/imagens/produtos/harumaki-3.jpg",
+      "descricao": "Rolinho a escolha do cliente, opções disponíveis: Camarão / Romeu e Julieta. Caso não seja especificado, o recheio será escolhido pelo chef.",
+      "ingredientes": [
+        "Camarão",
+        "Romeu e Julieta"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Harumaki",
+        "Entrada"
+      ]
+    },
+    {
+      "id": "harumaki-5",
+      "pecas": 5,
+      "nome": "5x Harumaki (Rolinho Primavera)",
+      "preco": 25.90,
+      "imagem": "assets/imagens/produtos/harumaki-5.jpg",
+      "descricao": "Rolinho a escolha do cliente, opções disponíveis: Camarão / Romeu e Julieta. Caso não seja especificado, o recheio será escolhido pelo chef.",
+      "ingredientes": [
+        "Camarão",
+        "Romeu e Julieta"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Harumaki",
+        "Entrada"
+      ]
+    }
+  ]
+}

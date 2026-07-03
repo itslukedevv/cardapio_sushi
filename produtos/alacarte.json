@@ -1,0 +1,372 @@
+{
+  "produtos": [
+    {
+      "id": "joe-4",
+      "pecas": 4,
+      "nome": "4x Joe",
+      "preco": 13.90,
+      "imagem": "assets/imagens/produtos/joe-4.jpg",
+      "descricao": "Recheio a escolha do cliente, opcoes disponiveis abaixo.Caso não seja especificado, o recheio será escolhido pelo chef.",
+      "sub_descricao": "Combo com 4 unidades de Joe",
+      "ingredientes": [
+        "Tradicional (Cream Cheese, Cebolinha e Gergelim)",
+        "Geleia Maracujá",
+        "Geleia Frutas Vermelhas",
+        "Crispy de Couve",
+        "Doritos"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 1,
+      "tags": [
+        "Joe"
+      ]
+    },
+    {
+      "id": "gunkan-4",
+      "pecas": 4,
+      "nome": "4x Gunkan Salmão",
+      "preco": 14.99,
+      "imagem": "assets/imagens/produtos/gunkan-4.jpg",
+      "descricao": "4 unidades joe com tartar de salmão como recheio.",
+      "sub_descricao": "4 unidades recheadas com tartar",
+      "ingredientes": [
+        "Tartar de Salmão",
+        "Cebolinha",
+        "Cream Cheese"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Gunkan"
+      ]
+    },
+    {
+      "id": "nigiri-salmao",
+      "pecas": 4,
+      "nome": "4x Nigiri Salmão",
+      "preco": 13.90,
+      "imagem": "assets/imagens/produtos/nigiri-salmao.jpg",
+      "descricao": "Nigiri tradicional com fatias selecionadas de salmão premium.",
+      "sub_descricao": "Porção com 4 unidades",
+      "ingredientes": [
+        "Salmão Premium"
+      ],
+      "acompanha": [
+        "1x Shoyu",
+        "1x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Nigiri"
+      ]
+    },
+    {
+      "id": "nigiri-skin",
+      "pecas": 4,
+      "nome": "4x Nigiri Skin",
+      "preco": 11.90,
+      "imagem": "assets/imagens/produtos/nigiri-skin.jpg",
+      "descricao": "Nigiri clássico moldado com pele de salmão grelhada crocante.",
+      "sub_descricao": "Porção com 4 unidades",
+      "ingredientes": [
+        "Pele de Salmão Grelhada"
+      ],
+      "acompanha": [
+        "1x Shoyu",
+        "1x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Nigiri",
+        "Skin"
+      ]
+    },
+    {
+      "id": "maki-salmao",
+      "pecas": 6,
+      "nome": "6x Maki Salmão",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/maki-salmao.jpg",
+      "descricao": "Enrolado tradicional de arroz e alga recheado com salmão fresco.",
+      "sub_descricao": "Porção com 6 unidades",
+      "ingredientes": [
+        "Salmão"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Maki"
+      ]
+    },
+    {
+      "id": "maki-philadelphia",
+      "pecas": 6,
+      "nome": "6x Maki Salmão Philadelphia",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/maki-philadelphia.jpg",
+      "descricao": "Maki com salmão fresco e cream cheese.",
+      "sub_descricao": "Porção cremosa com 6 unidades",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 4,
+      "tags": [
+        "Philadelphia",
+        "Maki"
+      ]
+    },
+    {
+      "id": "maki-pepino",
+      "pecas": 6,
+      "nome": "6x Maki Pepino",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/maki-pepino.jpg",
+      "descricao": "Opção leve e refrescante recheada com pepino selecionado.",
+      "sub_descricao": "Porção vegetariana com 6 unidades",
+      "ingredientes": [
+        "Pepino"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 5,
+      "tags": [
+        "Vegetariano",
+        "Maki"
+      ]
+    },
+    {
+      "id": "maki-grelhado",
+      "pecas": 6,
+      "nome": "6x Maki Salmão Grelhado",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/maki-grelhado.jpg",
+      "descricao": "Enrolado de alga recheado com salmão grelhado temperado.",
+      "sub_descricao": "Porção com 6 unidades",
+      "ingredientes": [
+        "Salmão Grelhado"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 6,
+      "tags": [
+        "Grelhado",
+        "Maki"
+      ]
+    },
+    {
+      "id": "uramaki-california",
+      "pecas": 6,
+      "nome": "6x Uramaki Califórnia",
+      "preco": 11.90,
+      "imagem": "assets/imagens/produtos/uramaki-california.jpg",
+      "descricao": "Enrolado invertido com gergelim, recheado com o clássico mix Califórnia.",
+      "sub_descricao": "Porção com 6 unidades",
+      "ingredientes": [
+        "Califórnia"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Uramaki",
+        "California"
+      ]
+    },
+    {
+      "id": "uramaki-philadelphia",
+      "pecas": 6,
+      "nome": "6x Uramaki Salmão Philadelphia",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/uramaki-philadelphia.jpg",
+      "descricao": "Uramaki invertido de salmão fresco combinado com cream cheese.",
+      "sub_descricao": "Porção cremosa com 6 unidades",
+      "ingredientes": [
+        "Salmão",
+        "Cream Cheese"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Uramaki",
+        "Philadelphia"
+      ]
+    },
+    {
+      "id": "uramaki-grelhado",
+      "pecas": 6,
+      "nome": "6x Uramaki Salmão Grelhado",
+      "preco": 12.90,
+      "imagem": "assets/imagens/produtos/uramaki-grelhado.jpg",
+      "descricao": "Enrolado invertido recheado com saboroso salmão grelhado.",
+      "sub_descricao": "Porção com 6 unidades",
+      "ingredientes": [
+        "Salmão Grelhado"
+      ],
+      "acompanha": [
+        "1x Sachê de Shoyu",
+        "1x Sachê de Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Uramaki",
+        "Grelhado"
+      ]
+    },
+    {
+      "id": "sashimi-8",
+      "pecas": 8,
+      "nome": "Sashimi Salmão (8 fatias)",
+      "preco": 24.90,
+      "imagem": "assets/imagens/sashimi-8.jpg",
+      "descricao": "Fatias frescas de salmão (14g cada).",
+      "sub_descricao": "8 fatias premium de salmão fresco",
+      "ingredientes": [
+        "8 fatias de salmão"
+      ],
+      "acompanha": [
+        "1x Shoyu",
+        "1x Tarê",
+        "1 Par de Hashi"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Sashimi"
+      ]
+    },
+    {
+      "id": "sashimi-15",
+      "pecas": 15,
+      "nome": "Sashimi Salmão (15 fatias)",
+      "preco": 43.90,
+      "imagem": "assets/imagens/produtos/sashimi-15.jpg",
+      "descricao": "Cortes generosos e frescos de puro salmão.",
+      "sub_descricao": "15 fatias premium de salmão fresco",
+      "ingredientes": [
+        "15 fatias de salmão"
+      ],
+      "acompanha": [
+        "1x Shoyu",
+        "1x Tarê",
+        "1 Par de Hashi"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Sashimi"
+      ]
+    },
+    {
+      "id": "sashimi-25",
+      "pecas": 25,
+      "nome": "Sashimi Salmão (25 fatias)",
+      "preco": 70.90,
+      "imagem": "assets/imagens/produtos/sashimi-25.jpg",
+      "descricao": "Prato ideal para os amantes de sashimi, com cortes selecionados.",
+      "sub_descricao": "Fartura com 25 fatias de salmão",
+      "ingredientes": [
+        "25 fatias de salmão"
+      ],
+      "acompanha": [
+        "2x Shoyu",
+        "2x Tarê",
+        "1 Par de Hashi"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": true,
+      "favorito": false,
+      "ordem": 0,
+      "tags": [
+        "Sashimi"
+      ]
+    }
+  ]
+}

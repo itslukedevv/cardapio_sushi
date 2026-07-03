@@ -1,0 +1,89 @@
+{
+  "produtos": [
+    {
+      "id": "agua-mate-500",
+      "pecas": 1,
+      "nome": "Água Mate Caju Sem Gás 500ml",
+      "preco": 2.90,
+      "imagem": "assets/imagens/agua_sem_gas.jpg",
+      "descricao": "Garrafa 500ml.",
+      "sub_descricao": "Bebida refrescante sabor Caju 500ml",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 1,
+      "tags": [
+        "Bebidas",
+        "Mate"
+      ]
+    },
+    {
+      "id": "agua-com-gas-500",
+      "pecas": 1,
+      "nome": "Água Mineral Com Gás 500ml",
+      "preco": 3.90,
+      "imagem": "assets/imagens/agua_com_gas.jpg",
+      "descricao": "Água mineral refrescante com gás, garrafa de 500ml.",
+      "sub_descricao": "Garrafa de 500ml com gás",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Bebidas",
+        "Água"
+      ]
+    },
+    {
+      "id": "coca-cola-350",
+      "pecas": 1,
+      "nome": "Coca-Cola Lata Original 350ml",
+      "preco": 7.90,
+      "imagem": "assets/imagens/coca_normal.jpg",
+      "descricao": "Lata 350ml.",
+      "sub_descricao": "Refrigerante Lata 350ml",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Bebidas",
+        "Refrigerante"
+      ]
+    },
+    {
+      "id": "coca-cola-zero-350",
+      "pecas": 1,
+      "nome": "Coca-Cola Zero Lata 350ml",
+      "preco": 7.90,
+      "imagem": "assets/imagens/coca_zero.jpg",
+      "descricao": "Lata 350ml.",
+      "sub_descricao": "Refrigerante Zero Açúcar Lata 350ml",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 4,
+      "tags": [
+        "Bebidas",
+        "Refrigerante",
+        "Zero"
+      ]
+    }
+  ]
+}

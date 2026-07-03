@@ -1,0 +1,104 @@
+{
+  "produtos": [
+    {
+      "id": "hashi",
+      "nome": "1 Par de Hashi",
+      "pecas": 1,
+      "preco": 0.50,
+      "imagem": "assets/imagens/hashi.jpg",
+      "descricao": "Par de pauzinhos tradicionais descartáveis para consumo dos pratos.",
+      "sub_descricao": "Acessório individual",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 1,
+      "tags": [
+        "Descartáveis"
+      ]
+    },
+    {
+      "id": "shoyu",
+      "nome": "1 Sachê de Shoyu",
+      "pecas": 1,
+      "preco": 0.70,
+      "imagem": "assets/imagens/shoyu.jpg",
+      "descricao": "Sachê de molho de soja tradicional para acompanhamento.",
+      "sub_descricao": "Molho individual",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Molhos"
+      ]
+    },
+    {
+      "id": "tare",
+      "nome": "1 Sachê de Tarê",
+      "pecas": 1,
+      "preco": 0.75,
+      "imagem": "assets/imagens/tare.jpg",
+      "descricao": "Sachê de molho tarê adocicado, perfeito para hots e maçaricados.",
+      "sub_descricao": "Molho individual adocicado",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Molhos"
+      ]
+    },
+    {
+      "id": "gengibre",
+      "nome": "Gengibre",
+      "pecas": 1,
+      "preco": 0.99,
+      "imagem": "assets/imagens/gengibre.jpg",
+      "descricao": "Porção de gengibre em conserva em molho su.",
+      "sub_descricao": "Gengibre.",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 4,
+      "tags": [
+        "Acompanhamentos"
+      ]
+    },
+        {
+      "id": "Sunomono",
+      "nome": "Sunomono",
+      "pecas": 1,
+      "preco": 0.99,
+      "imagem": "assets/imagens/Sunomono.jpg",
+      "descricao": "Porção de Sunomono (Pepino)",
+      "sub_descricao": "Sunomono",
+      "ingredientes": [],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 5,
+      "tags": [
+        "Acompanhamentos"
+      ]
+    }
+  ]
+}

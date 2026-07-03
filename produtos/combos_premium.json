@@ -1,0 +1,117 @@
+
+{
+  "produtos": [
+    {
+      "id": "kombo-tatsuta",
+      "nome": "Kombo Tatsuta",
+      "preco": 39.90,
+      "pecas": 15,
+      "imagem": "assets/imagens/tatsuta.jpg",
+      "descricao": "Combo leve com salmão maçaricado, simples e equilibrado.",
+      "sub_descricao": "Combo leve com 15 peças flambadas",
+      "ingredientes": [
+        "6x Niguiris de Salmão Flambado",
+        "5x Sashimis de Salmão Flambado",
+        "4x Maki Salmão"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": true,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 1,
+      "tags": [
+        "Promoção"
+      ]
+    },
+    {
+      "id": "kombo-tsuki",
+      "nome": "Kombo Tsuki",
+      "preco": 44.90,
+      "pecas": 27,
+      "imagem": "assets/imagens/tsuki.jpg",
+      "descricao": "Mix variado de salmão com peças clássicas e cremosas.",
+      "sub_descricao": "Mix clássico e cremoso com 27 peças",
+      "ingredientes": [
+        "4x Gunkan de Salmão",
+        "2x Joe Tradicional",
+        "3x Sashimi de Salmão",
+        "3x Nigiri Salmão",
+        "5x Uramaki Salmão Philadelphia",
+        "5x Uramaki California",
+        "5x Maki Skin"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": true,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Promoção"
+      ]
+    },
+    {
+      "id": "kombo-hana",
+      "nome": "Kombo Hana",
+      "preco": 54.90,
+      "pecas": 34,
+      "imagem": "assets/imagens/produtos/kombo-hana.jpg",
+      "descricao": "Combo completo com hot, sashimi, nigiri e maki, com sabores mais intensos.",
+      "sub_descricao": "Sabores intensos em 34 peças",
+      "ingredientes": [
+        "5x Maki Salmão Philadelphia",
+        "5x Maki Skin",
+        "4x Nigiri Salmão",
+        "4x Nigiri Skin",
+        "2x Joe Tradicional",
+        "2x Joe Geleia Maracujá",
+        "6x Hot Geleia Frutas Vermelhas",
+        "6x Hot Geleia Maracujá"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": true,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Promoção"
+      ]
+    },
+    {
+      "id": "kombo-yama",
+      "nome": "Kombo Yama",
+      "preco": 72.90,
+      "pecas": 37,
+      "imagem": "assets/imagens/yama.jpg",
+      "descricao": "O mais completo da linha, com bastante variedade de salmão em diferentes preparos.",
+      "sub_descricao": "Variedade máxima em 37 peças premium",
+      "ingredientes": [
+        "5x Sashimi de Salmão",
+        "5x Sashimi de Salmão Flambado",
+        "2x Joe Geleia de Maracujá",
+        "2x Joe Geleia de Frutas Vermelhas",
+        "2x Gunkan de Salmão",
+        "3x Hot Doritos",
+        "3x Hot Geleia de Frutas Vermelhas",
+        "3x Hot Crocante de Couve",
+        "3x Hot Geleia de Maracujá",
+        "9x Nigiri Salmão"
+      ],
+      "acompanha": [],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": true,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 4,
+      "tags": [
+        "Promoção"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "produtos": [
+    {
+      "id": "kon-classico",
+      "nome": "Kon Clássico",
+      "preco": 39.90,
+      "pecas": 35,
+      "imagem": "assets/imagens/classico.jpg",
+      "descricao": "Ideal para até 2 pessoas.",
+      "sub_descricao": "Combo completo com 35 peças",
+      "ingredientes": [
+        "6x Maki Grelhado",
+        "6x Maki Pepino",
+        "6x Uramaki Califórnia",
+        "3x Nigiri Pele",
+        "2x Nigiri Salmão",
+        "6x Hot Doritos",
+        "6x Hot Couve"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "1x Shoyu",
+        "1x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 1,
+      "tags": [
+        "Hot",
+        "Nigiri",
+        "Uramaki"
+      ]
+    },
+    {
+      "id": "kon-maravilha",
+      "nome": "Kon Maravilha",
+      "preco": 49.90,
+      "pecas": 45,
+      "imagem": "assets/imagens/maravilha.jpg",
+      "descricao": "Ideal para até 3 pessoas",
+      "sub_descricao": "Combo fartura com 45 peças",
+      "ingredientes": [
+        "6x Maki Grelhado",
+        "6x Maki Pepino",
+        "6x Maki Pele",
+        "6x Uramaki Califórnia",
+        "6x Nigiri Pele",
+        "3x Nigiri Salmão",
+        "6x Hot Doritos",
+        "6x Hot Couve"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "2x Shoyu",
+        "1x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 2,
+      "tags": [
+        "Hot",
+        "Nigiri",
+        "Maki"
+      ]
+    },
+    {
+      "id": "kon-especial",
+      "nome": "Kon Especial",
+      "preco": 69.90,
+      "pecas": 64,
+      "imagem": "assets/imagens/especial.jpg",
+      "descricao": "Ideal para até 4 pessoas.",
+      "sub_descricao": "Super combo com 64 peças",
+      "ingredientes": [
+        "6x Maki Salmão",
+        "8x Maki Grelhado",
+        "8x Maki Pepino",
+        "8x Maki Skin",
+        "6x Uramaki Califórnia",
+        "5x Nigiri Pele",
+        "3x Nigiri Salmão",
+        "5x Hot Doritos",
+        "5x Hot Couve",
+        "5x Hot Maracujá",
+        "5x Hot Frutas Vermelhas"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 3,
+      "tags": [
+        "Especial",
+        "Hot",
+        "Salmão"
+      ]
+    },
+    {
+      "id": "kon-familia",
+      "nome": "Kon Família",
+      "preco": 89.90,
+      "pecas": 81,
+      "imagem": "assets/imagens/familia.jpg",
+      "descricao": "Ideal para até 6 pessoas.",
+      "sub_descricao": "Banquete familiar com 81 peças",
+      "ingredientes": [
+        "8x Maki Salmão",
+        "8x Maki Grelhado",
+        "8x Maki Pepino",
+        "8x Maki Pele",
+        "7x Uramaki Califórnia",
+        "7x Uramaki Salmão Grelhado",
+        "6x Nigiri Pele",
+        "6x Nigiri Salmão",
+        "3x Nigiri Kani",
+        "5x Hot Doritos",
+        "5x Hot Couve",
+        "5x Hot Maracujá",
+        "5x Hot Frutas Vermelhas"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "3x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": true,
+      "novo": false,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 4,
+      "tags": [
+        "Família",
+        "80 peças",
+        "Hot"
+      ]
+    },
+    {
+      "id": "kon-supremo",
+      "nome": "Kon Supremo",
+      "preco": 109.90,
+      "pecas": 100,
+      "imagem": "assets/imagens/kon-supremo.jpg",
+      "descricao": "Ideal para até 8 pessoas.",
+      "sub_descricao": "O maior do Kon: 100 peças variadas",
+      "ingredientes": [
+        "10x Uramaki Grelhado",
+        "10x Uramaki Califórnia",
+        "10x Maki Pepino",
+        "10x Maki Pele",
+        "10x Maki Salmão",
+        "10x Nigiri Pele",
+        "4x Nigiri Salmão",
+        "12x Hot Doritos",
+        "12x Hot Couve",
+        "6x Hot Maracujá",
+        "6x Hot Frutas Vermelhas"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "3x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": false,
+      "esgotado": false,
+      "favorito": true,
+      "ordem": 5,
+      "tags": [
+        "Premium",
+        "90 peças",
+        "Hot"
+      ]
+    }
+  ]
+}

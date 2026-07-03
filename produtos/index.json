@@ -1,0 +1,52 @@
+{
+  "categorias": [
+    {
+      "id": "combos_basicos",
+      "nome": "Kombos Do Kon",
+      "icone": "🍱",
+      "arquivo": "combos_basicos.json"
+    },
+    {
+      "id": "combos_premium",
+      "nome": "Kombos Sushi Kon",
+      "icone": "🍣",
+      "arquivo": "combos_premium.json"
+    },
+    {
+      "id": "alacarte",
+      "nome": "À La Carte",
+      "icone": "🍣",
+      "arquivo": "alacarte.json"
+    },
+    {
+      "id": "temakis",
+      "nome": "Especiais",
+      "icone": "🌯",
+      "arquivo": "especiais.json"
+    },
+    {
+      "id": "hots",
+      "nome": "Hots",
+      "icone": "🔥",
+      "arquivo": "hots.json"
+    },
+    {
+      "id": "bebidas",
+      "nome": "Bebidas",
+      "icone": "🥤",
+      "arquivo": "bebidas.json"
+    },
+    {
+      "id": "descartaveis",
+      "nome": "Descartáveis/molhos",
+      "icone": "🗑️",
+      "arquivo": "descartaveis_molhos.json"
+    },
+    {
+      "id": "promocoes",
+      "nome": "Promoções",
+      "icone": "⚡",
+      "arquivo": "promocoes.json"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Sushi Kon | Cardápio</title>
+    <meta name="description" content="Conheça o cardápio do Sushi Kon. Combos, hots, temakis e muito mais.">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- ===== HEADER / HERO ===== -->
+    <header class="hero">
+        <span class="hero-tag">CARDÁPIO OFICIAL</span>
+        <h1>Sushi Kon</h1>
+    </header>
+
+    <!-- ===== NAVEGAÇÃO POR CATEGORIAS ===== -->
+    <nav class="categorias">
+        <!-- JS vai preencher automaticamente -->
+    </nav>
+
+    <!-- ===== CONTEÚDO PRINCIPAL ===== -->
+    <main>
+        <section id="produtos">
+            <!-- JS vai preencher automaticamente -->
+        </section>
+    </main>
+
+    <!-- ===== FOOTER ===== -->
+    <footer>
+        <p>© 2026 Sushi Kon</p>
+    </footer>
+
+    <!-- ===== MODAL DE DETALHES DO PRODUTO ===== -->
+    <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" aria-label="Fechar">&times;</span>
+
+            <img id="modal-imagem" class="modal-img" alt="Imagem do produto">
+
+            <div class="modal-info">
+                <div class="modal-header">
+                    <h2 id="modal-nome"></h2>
+                    <div id="modal-badges" class="badges"></div>
+                </div>
+
+                <div class="modal-meta">
+                    <span id="modal-preco"></span>
+                    <span id="modal-pecas"></span>
+                </div>
+
+                <p id="modal-descricao"></p>
+
+                <!-- Se você adicionou o campo sub_descricao no JSON, descomente a linha abaixo: -->
+                <!-- <p id="modal-sub-descricao" class="modal-sub-desc"></p> -->
+
+                <p id="modal-descricao"></p>
+
+                <!-- Se você adicionou o campo sub_descricao no JSON, descomente a linha abaixo: -->
+                <!-- <p id="modal-sub-descricao" class="modal-sub-desc"></p> -->
+
+                <div id="ingredientes-box">
+                    <h3>🍣 O que vem no combo</h3>
+                    <ul id="modal-ingredientes"></ul>
+                </div>
+
+                <div id="acompanha-box">
+                    <h3>🥢 Acompanha</h3>
+                    <ul id="modal-acompanha"></ul>
+                </div>
+
+                <div class="acoes-pedido">
+                    <button class="btn-whatsapp">
+                        Pedir pelo WhatsApp
+                    </button>
+
+                    <button class="btn-ifood">
+                        Pedir pelo iFood
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- ===== SCRIPTS ===== -->
+    <script src="script.js"></script>
+
+</body>
+
+</html>
