@@ -1,4 +1,3 @@
-
 {
   "produtos": [
     {
@@ -56,7 +55,7 @@
     {
       "id": "kombo-hana",
       "nome": "Kombo Hana",
-      "preco": 54.90,
+      "preco": 57.90,
       "pecas": 34,
       "imagem": "assets/imagens/produtos/kombo-hana.jpg",
       "descricao": "Combo completo com hot, sashimi, nigiri e maki, com sabores mais intensos.",
@@ -71,7 +70,11 @@
         "6x Hot Geleia Frutas Vermelhas",
         "6x Hot Geleia Maracujá"
       ],
-      "acompanha": [],
+      "acompanha": [
+        "1x Hashi",
+        "2x Shoyu",
+        "1x Tarê"
+      ],
       "maisVendido": false,
       "novo": true,
       "promocao": true,
@@ -85,7 +88,7 @@
     {
       "id": "kombo-yama",
       "nome": "Kombo Yama",
-      "preco": 72.90,
+      "preco": 85.90,
       "pecas": 37,
       "imagem": "assets/imagens/yama.jpg",
       "descricao": "O mais completo da linha, com bastante variedade de salmão em diferentes preparos.",
@@ -102,13 +105,46 @@
         "3x Hot Geleia de Maracujá",
         "9x Nigiri Salmão"
       ],
-      "acompanha": [],
+      "acompanha": [
+        "1x Hashi",
+        "2x Shoyu",
+        "2x Tarê"
+      ],
       "maisVendido": false,
       "novo": true,
       "promocao": true,
       "esgotado": false,
       "favorito": false,
       "ordem": 4,
+      "tags": [
+        "Promoção"
+      ]
+    },
+    {
+      "id": "kombo-Taisho",
+      "nome": "Kombo Taisho",
+      "preco": 109.90,
+      "pecas": 34,
+      "imagem": "assets/imagens/taisho.jpg",
+      "descricao": "Kombo com temaki incluso",
+      "sub_descricao": "",
+      "ingredientes": [
+        "2x Temaki Philadelphia",
+        "10x Sashimi de Salmão",
+        "10x Maki Salmão",
+        "4x Gunkan de Salmão"
+      ],
+      "acompanha": [
+        "1x Hashi",
+        "2x Shoyu",
+        "2x Tarê"
+      ],
+      "maisVendido": false,
+      "novo": true,
+      "promocao": true,
+      "esgotado": false,
+      "favorito": false,
+      "ordem": 5,
       "tags": [
         "Promoção"
       ]

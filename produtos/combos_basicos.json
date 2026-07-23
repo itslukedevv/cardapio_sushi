@@ -3,7 +3,7 @@
     {
       "id": "kon-classico",
       "nome": "Kon Clássico",
-      "preco": 39.90,
+      "preco": 41.90,
       "pecas": 35,
       "imagem": "assets/imagens/classico.jpg",
       "descricao": "Ideal para até 2 pessoas.",
@@ -37,7 +37,7 @@
     {
       "id": "kon-maravilha",
       "nome": "Kon Maravilha",
-      "preco": 49.90,
+      "preco": 52.90,
       "pecas": 45,
       "imagem": "assets/imagens/maravilha.jpg",
       "descricao": "Ideal para até 3 pessoas",
@@ -72,7 +72,7 @@
     {
       "id": "kon-especial",
       "nome": "Kon Especial",
-      "preco": 69.90,
+      "preco": 68.90,
       "pecas": 64,
       "imagem": "assets/imagens/especial.jpg",
       "descricao": "Ideal para até 4 pessoas.",
@@ -149,8 +149,8 @@
     },
     {
       "id": "kon-supremo",
-      "nome": "Kon Supremo",
-      "preco": 109.90,
+      "nome": "Kon Hexa Familía",
+      "preco": 120.90,
       "pecas": 100,
       "imagem": "assets/imagens/kon-supremo.jpg",
       "descricao": "Ideal para até 8 pessoas.",

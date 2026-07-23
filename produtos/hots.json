@@ -2,12 +2,12 @@
   "produtos": [
     {
       "id": "hot-banana",
-      "nome": "12x Hot Banana",
-      "pecas": 12,
-      "preco": 13.90,
+      "nome": "6x Hot Banana",
+      "pecas": 6,
+      "preco": 11.90,
       "imagem": "assets/imagens/produtos/hot-banana.jpg",
-      "descricao": "10 unidades de hot banana, sendo 5 com geleia de maracujá e 5 com geleia de frutas vermelhas.",
-      "sub_descricao": "Porção doce com 12 unidades (inclui adicionais do chef)",
+      "descricao": "6 unidades de hot banana, sendo 3 com geleia de maracujá e 3 com geleia de frutas vermelhas.",
+      "sub_descricao": "Porção doce com 6 unidades",
       "ingredientes": [
         "5x Hot Banana Geleia Maracujá",
         "5x Hot Banana Geleia Frutas Vermelhas"
@@ -31,11 +31,11 @@
     {
       "id": "hot-grelhado",
       "nome": "12x Hot Salmão Grelhado",
-      "pecas": 12,
-      "preco": 15.90,
+      "pecas": 6,
+      "preco": 11.90,
       "imagem": "assets/imagens/hot_grelhado.jpg",
       "descricao": "Recheio a escolha do cliente, opcoes disponiveis: Geleia de Frutas Vermelhas, Geleia de Maracujá, Couve e Doritos. Caso não seja especificado, o recheio será escolhido pelo chef.",
-      "sub_descricao": "Porção de Hot frito com 12 peças",
+      "sub_descricao": "Porção de Hot frito com 6 peças",
       "ingredientes": [
         "5x Hot Grelhado Maracujá",
         "5x Hot Grelhado Frutas Vermelhas"
