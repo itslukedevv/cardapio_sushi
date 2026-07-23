@@ -30,15 +30,15 @@
     },
     {
       "id": "hot-grelhado",
-      "nome": "12x Hot Salmão Grelhado",
+      "nome": "6x Hot Salmão Grelhado",
       "pecas": 6,
       "preco": 11.90,
       "imagem": "assets/imagens/hot_grelhado.jpg",
       "descricao": "Recheio a escolha do cliente, opcoes disponiveis: Geleia de Frutas Vermelhas, Geleia de Maracujá, Couve e Doritos. Caso não seja especificado, o recheio será escolhido pelo chef.",
       "sub_descricao": "Porção de Hot frito com 6 peças",
       "ingredientes": [
-        "5x Hot Grelhado Maracujá",
-        "5x Hot Grelhado Frutas Vermelhas"
+        " Hot Grelhado Maracujá",
+        " Hot Grelhado Frutas Vermelhas"
       ],
       "acompanha": [
         "1 Par de Hashi",
